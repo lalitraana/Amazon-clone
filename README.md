@@ -5,3 +5,5 @@
 Project made with React.js in order to showcase my Front-end skills.
 
 ![Alt text](/public/screenshot.png?raw=true "Result")
+
+:email:&nbsp; lalitraana@gmail.com
